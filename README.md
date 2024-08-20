@@ -4,8 +4,6 @@ This project is aimed at detecting and identifying traffic rule violations by tw
 ## Dataset
 The datasets used for this project are [Helmet Detection Project](https://universe.roboflow.com/nckh-2023/helmet-detection-project), [Face Detection](https://universe.roboflow.com/mohamed-traore-2ekkp/face-detection-mik1i), and [Two Wheeler Lane Detection](https://universe.roboflow.com/prathamjaiswal/two-wheeler-lane-detection).
 
-> The Two Wheeler Lane Detection Dataset is created by [Pratham Jaiswal (me)](https://github.com/pratham-jaiswal), [Arnav Rawat](https://github.com/ArnavRw21), and [Shubham Sharma](https://github.com/Shubham1709).
-
 ## Detected Objects
 - Helmet Detection Project: Two-wheeler/motorcyclist, Helmet, License Plate
 - Face Detection: Human Face
